@@ -1,0 +1,86 @@
+,Id,Label,Count,Influence,AvgInfluence
+0,Video game ads,Video game ads,349,12189.0,34.92550143266476
+1,Ads on Pay TV,Ads on Pay TV,536,20805.0,38.815298507462686
+2,Personal letter/ statement,Personal letter/ statement,502,30139.0,60.037848605577686
+3,TV/Film Product placement,TV/Film Product placement,623,29019.0,46.57945425361156
+4,Social network page/app,Social network page/app,608,38605.0,63.495065789473685
+5,Relevant websites,Relevant websites,1033,72888.0,70.5595353339787
+6,Consumer opinion site/ blogs,Consumer opinion site/ blogs,669,46638.0,69.71300448430493
+7,Ads in Newspapers,Ads in Newspapers,788,29819.0,37.84137055837564
+8,Internet apps/widgets,Internet apps/widgets,468,27695.0,59.177350427350426
+9,Direct mail,Direct mail,727,26386.0,36.29436038514443
+10,Direct mail (owned),Direct mail (owned),656,34587.0,52.72408536585366
+11,Consumer views on social networks,Consumer views on social networks,611,40513.0,66.30605564648118
+12,Ads on outdoor posters or billboards,Ads on outdoor posters or billboards,780,31913.0,40.91410256410256
+13,Loyalty card/ scheme,Loyalty card/ scheme,777,41797.0,53.792792792792795
+14,Independent review,Independent review,780,53473.0,68.5551282051282
+15,Consumer views on microblogs,Consumer views on microblogs,434,28763.0,66.2741935483871
+16,TV program sponsor,TV program sponsor,767,38138.0,49.72359843546284
+17,Print advertorial,Print advertorial,680,29616.0,43.55294117647059
+18,Ads in shopping centres,Ads in shopping centres,984,35913.0,36.4969512195122
+19,Sales assistant/ dealer/ agent/ financial advisor,Sales assistant/ dealer/ agent/ financial advisor,637,41941.0,65.8414442700157
+20,Event sponsor,Event sponsor,492,20826.0,42.329268292682926
+21,Ads on Radio,Ads on Radio,606,22326.0,36.84158415841584
+22,Brochure/ catalogue,Brochure/ catalogue,1174,50085.0,42.6618398637138
+23,Celebrity endorsement,Celebrity endorsement,544,21370.0,39.283088235294116
+24,Delivery/ branded vehicles,Delivery/ branded vehicles,478,23808.0,49.80753138075314
+25,Price comparison site,Price comparison site,980,59314.0,60.52448979591837
+26,Window display/ ad,Window display/ ad,721,48775.0,67.64909847434119
+27,Branded merchandise,Branded merchandise,634,31780.0,50.126182965299684
+28,Brand event,Brand event,489,22312.0,45.627811860940696
+29,Call centre/ help line,Call centre/ help line,402,20313.0,50.52985074626866
+30,Seeing others with brand,Seeing others with brand,795,58901.0,74.08930817610063
+31,Salesperson recommendation,Salesperson recommendation,650,49887.0,76.74923076923076
+32,Print inserts/ leaflets,Print inserts/ leaflets,762,34255.0,44.95406824146982
+33,Brand page on social network,Brand page on social network,527,22893.0,43.44022770398482
+34,Radio promotions/ DJ recommendation,Radio promotions/ DJ recommendation,466,21963.0,47.13090128755365
+35,Social networking site,Social networking site,677,50834.0,75.08714918759232
+36,Coupons,Coupons,754,35422.0,46.97877984084881
+37,Brand website,Brand website,1117,52113.0,46.6544315129812
+38,Friends/ family recommendation,Friends/ family recommendation,1541,80293.0,52.1044776119403
+39,Online retailer website,Online retailer website,969,58240.0,60.103199174406605
+40,Event demonstration/ trial,Event demonstration/ trial,476,24183.0,50.804621848739494
+41,Instore ads,Instore ads,1033,49161.0,47.59051306873185
+42,Social network ad,Social network ad,715,24656.0,34.483916083916085
+43,Online video ad,Online video ad,629,21196.0,33.69793322734499
+44,Kids/ family request,Kids/ family request,821,50306.0,61.274056029232646
+45,Product sample,Product sample,804,46452.0,57.776119402985074
+46,Internet Banner ad,Internet Banner ad,670,22016.0,32.85970149253731
+47,Ads on FTA TV,Ads on FTA TV,550,20477.0,37.230909090909094
+48,Specialist one-to-one recommendation,Specialist one-to-one recommendation,582,45631.0,78.40378006872852
+49,Relevant radio programs,Relevant radio programs,449,36368.0,80.99777282850779
+50,Retailer catalogues/mailing,Retailer catalogues/mailing,992,57215.0,57.676411290322584
+51,Ads in Magazines,Ads in Magazines,748,28742.0,38.42513368983957
+52,Internet brand video,Internet brand video,501,30400.0,60.678642714570856
+53,Email ad,Email ad,781,29247.0,37.44814340588989
+54,Relevant TV programs,Relevant TV programs,680,51699.0,76.02794117647059
+55,Display in public area,Display in public area,875,45084.0,51.52457142857143
+56,Email,Email,943,47217.0,50.07104984093319
+57,Free gift with purchase,Free gift with purchase,749,37871.0,50.562082777036046
+58,Information on packaging,Information on packaging,895,52178.0,58.299441340782124
+59,Online viral ad,Online viral ad,455,15343.0,33.72087912087912
+60,Customer magazine/ letter,Customer magazine/ letter,527,26709.0,50.68121442125237
+61,Instore flyers/ catalogues,Instore flyers/ catalogues,924,53421.0,57.814935064935064
+62,Instore sample/ demo,Instore sample/ demo,671,37970.0,56.58718330849479
+63,Expert review/ recommendation,Expert review/ recommendation,801,47563.0,59.37952559300874
+64,Contest/ competitions,Contest/ competitions,605,28812.0,47.623140495867766
+65,Internet search,Internet search,1321,69828.0,52.85995457986374
+66,Brand store/ Dealership/ Garage/ Bank,Brand store/ Dealership/ Garage/ Bank,595,28741.0,48.30420168067227
+67,Print articles,Print articles,650,49186.0,75.67076923076922
+68,Good causes sponsor,Good causes sponsor,462,18596.0,40.25108225108225
+69,Online consumer video,Online consumer video,480,31955.0,66.57291666666667
+70,Word of mouth,Word of mouth,1440,74348.0,51.63055555555555
+71,Sampling,Sampling,727,40926.0,56.29436038514443
+72,Instore displays,Instore displays,1253,71871.0,57.359138068635275
+73,Brand staff,Brand staff,496,23926.0,48.23790322580645
+74,Roadshows/ seminars/ trade fairs,Roadshows/ seminars/ trade fairs,375,25854.0,68.944
+75,Expert recommendation,Expert recommendation,727,47363.0,65.14855570839065
+76,Internet display ads,Internet display ads,775,34550.0,44.58064516129032
+77,Social network likes,Social network likes,600,46906.0,78.17666666666666
+78,Internet search ads,Internet search ads,866,40276.0,46.508083140877595
+79,Ads at the Cinema,Ads at the Cinema,868,33288.0,38.35023041474654
+80,Sports sponsor,Sports sponsor,454,21640.0,47.66519823788546
+81,Print promotion/ coupons/ shopping dockets,Print promotion/ coupons/ shopping dockets,886,42911.0,48.432279909706544
+82,Mobile phone ads/ promotion,Mobile phone ads/ promotion,517,20657.0,39.95551257253385
+83,Consumer review,Consumer review,896,54653.0,60.996651785714285
+84,Personal use of the brand,Personal use of the brand,1832,99569.0,54.349890829694324
