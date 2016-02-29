@@ -1,3 +1,3 @@
 # Consumer-Journey
 
-First Commit
+Visualising consumer touchpoints with Gephy
